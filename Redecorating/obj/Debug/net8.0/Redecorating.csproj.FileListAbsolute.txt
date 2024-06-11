@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\bin\Debug\net8.0\Redecorating.exe
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\bin\Debug\net8.0\Redecorating.deps.json
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\bin\Debug\net8.0\Redecorating.runtimeconfig.json
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\bin\Debug\net8.0\Redecorating.dll
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\bin\Debug\net8.0\Redecorating.pdb
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.dll
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\refint\Redecorating.dll
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.pdb
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\Redecorating.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\Redecorating\Redecorating\obj\Debug\net8.0\ref\Redecorating.dll
